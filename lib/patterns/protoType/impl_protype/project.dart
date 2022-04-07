@@ -1,4 +1,4 @@
-import 'package:design_patterns/patterns/protype/base_protype/interface.dart';
+import 'package:design_patterns/patterns/protoType/base_protype/interface.dart';
 
 class Project implements Copyble {
   final int _id;

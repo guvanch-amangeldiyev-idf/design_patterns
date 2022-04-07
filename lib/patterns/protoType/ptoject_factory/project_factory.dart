@@ -1,4 +1,4 @@
-import 'package:design_patterns/patterns/protype/impl_protype/project.dart';
+import 'package:design_patterns/patterns/protoType/impl_protype/project.dart';
 
 class ProjectFactory {
   Project project;
