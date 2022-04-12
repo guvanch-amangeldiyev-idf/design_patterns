@@ -1,6 +1,6 @@
-import 'package:design_patterns/patterns/abst_factory/program/client.dart';
+import 'package:design_patterns/patterns/decorator/program/program.dart';
 
 void main(List<String> arguments) {
-  ProgramAbst dev = ProgramAbst();
-  dev.mainProgramAbst();
+  Task dev = Task();
+  dev.mainTask();
 }
