@@ -4,11 +4,31 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6c91873-3b0b-468b-b68e-cc791a1254fe" name="Default Changelist" comment="" />
+    <list default="true" id="e6c91873-3b0b-468b-b68e-cc791a1254fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/patterns/facade/bug_tracker/bug_tracker.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/patterns/facade/developer/deleloper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/patterns/facade/job/job.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/patterns/facade/program/program_runner.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/patterns/facade/work_flow/work_flow.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/patterns/factory_method/base_developer/base_developer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/patterns/factory_method/developer_impl/dart_developer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/patterns/factory_method/developer_impl/java_developer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/patterns/factory_method/interface/interface.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/patterns/factory_method/interface_impl/dart_dev_factory.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/patterns/factory_method/interface_impl/java_dev_factory.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/patterns/factory_method/program/client.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/design_patterns.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/design_patterns_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/design_patterns_test.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="adapter_pattern" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
