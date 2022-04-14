@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e6c91873-3b0b-468b-b68e-cc791a1254fe" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/patterns/facade/bug_tracker/bug_tracker.dart" afterDir="false" />
@@ -22,14 +23,20 @@
       <change beforePath="$PROJECT_DIR$/lib/design_patterns.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test/design_patterns_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/design_patterns_test.dart" afterDir="false" />
     </list>
+=======
+    <list default="true" id="e6c91873-3b0b-468b-b68e-cc791a1254fe" name="Default Changelist" comment="" />
+>>>>>>> composite
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="adapter_pattern" />
   </component>
+=======
+>>>>>>> composite
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
