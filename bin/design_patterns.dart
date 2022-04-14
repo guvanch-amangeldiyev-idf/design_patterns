@@ -1,6 +1,6 @@
-//import 'package:design_patterns/patterns/abst_factory/program/client.dart';
+import 'package:design_patterns/patterns/adapter/client/calling.dart';
 
 void main(List<String> arguments) {
-  // ProgramAbst dev = ProgramAbst();
-  // dev.mainProgramAbst();
+  AdapterRunner adapterRunner = AdapterRunner();
+  adapterRunner.adapterMain();
 }
