@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="e6c91873-3b0b-468b-b68e-cc791a1254fe" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/patterns/facade/bug_tracker/bug_tracker.dart" afterDir="false" />
@@ -26,6 +27,40 @@
 =======
     <list default="true" id="e6c91873-3b0b-468b-b68e-cc791a1254fe" name="Default Changelist" comment="" />
 >>>>>>> composite
+=======
+    <list default="true" id="e6c91873-3b0b-468b-b68e-cc791a1254fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/design_patterns.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/design_patterns.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/abst_factory/impl_base/developer_impl.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/abst_factory/impl_base/manager_impl.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/abst_factory/impl_base/team_project_impl.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/abst_factory/impl_base/tester_impl.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/abst_factory/interface/base_developer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/abst_factory/interface/base_manager.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/abst_factory/interface/base_team_factory.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/abst_factory/interface/base_tester.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/abst_factory/program/client.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/composite/developer/base_developer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/composite/developer/dart_developer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/composite/developer/java_deloper.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/composite/project/project.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/composite/team/team.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/factory_method/base_developer/base_developer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/factory_method/developer_impl/dart_developer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/factory_method/developer_impl/java_developer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/factory_method/interface/interface.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/factory_method/interface_impl/dart_dev_factory.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/factory_method/interface_impl/java_dev_factory.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/patterns/factory_method/program/client.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/design_patterns_test.dart" beforeDir="false" />
+    </list>
+>>>>>>> decorator
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
