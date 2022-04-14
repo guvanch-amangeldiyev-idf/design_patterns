@@ -1,6 +1,7 @@
-import 'package:design_patterns/patterns/adapter/client/calling.dart';
+import 'package:design_patterns/patterns/bridge/creator/programm_greator.dart';
 
 void main(List<String> arguments) {
-  AdapterRunner adapterRunner = AdapterRunner();
-  adapterRunner.adapterMain();
+  ProgramCreator creator = ProgramCreator();
+
+  print(creator);
 }
