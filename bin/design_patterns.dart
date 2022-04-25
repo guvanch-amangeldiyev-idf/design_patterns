@@ -1,6 +1,8 @@
 //import 'package:design_patterns/patterns/decorator/program/program.dart';
 
+import 'package:design_patterns/patterns/fly_weight/progrsm_fly/fly_weight.dart';
+
 void main(List<String> arguments) {
-  // Task dev = Task();
-  // dev.mainTask();
+  ProgramRunner dev = ProgramRunner();
+  dev.mainFly();
 }
